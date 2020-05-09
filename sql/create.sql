@@ -5,4 +5,3 @@ CREATE TABLE flights
     destination VARCHAR NOT NULL,
     duration INTEGER NOT NULL
 );
-
